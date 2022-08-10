@@ -1305,6 +1305,46 @@ li.social-links a {
     padding-bottom: 0;
 }
 
+
+
+
+
+.message-box2 h4 {
+    text-transform: uppercase;
+    padding: 0;
+    margin: 100px 0 0px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+    color: #999;
+}
+
+.message-box2 h2 {
+    font-size: 35px;
+    font-weight: 600;
+    padding: 10px 0 10px;
+    margin: 0;
+    line-height: 62px;
+    margin-top: 0;
+    text-transform: none;
+}
+
+.message-box2 p {
+    margin-bottom: 20px;
+}
+
+.message-box2 .lead {
+    padding-top: 10px;
+    font-size: 19px;
+    font-style: italic;
+    color: #999;
+    padding-bottom: 0;
+}
+
+
+
+
+
 .post-media {
     position: relative;
 }
@@ -2308,7 +2348,7 @@ select.mobile-device {
     color: #fcbf02;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 .stat-wrap p {
@@ -2961,7 +3001,7 @@ select.mobile-device {
 }
 
 .about-text h3{
-	font-size: 22px;
+	font-size: 12px;
 	font-weight: 600;
 	padding: 10px 0px;
 }
